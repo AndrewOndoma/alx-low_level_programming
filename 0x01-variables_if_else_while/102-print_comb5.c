@@ -30,7 +30,7 @@ int main(void)
 			    break;
 			  }
 			 else
-			  {https://github.com/hilarytn/alx-low_level_programming/tree/master/0x01-variables_if_else_while
+			  {https://github.com/AndrewOndoma/alx-low_level_programming/tree/master/0x01-variables_if_else_while
 			    putchar(',');
 			    putchar(' ');
 			   }
